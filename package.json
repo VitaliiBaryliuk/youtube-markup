@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/VitaliyBaryliuk/youtube-markup/issues"
   },
-  "homepage": "https://github.com/VitaliyBaryliuk/youtube-markup#readme",
+  "homepage": "https://vitaliybaryliuk.github.io/youtube-markup",
   "dependencies": {
     "sass": "^1.27.0"
   }
